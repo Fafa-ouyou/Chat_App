@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { StreamChat } from "stream-chat";
 import { Chat, Channel, ChannelHeader, MessageInput, MessageList, Thread, Window, LoadingIndicator } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";  
-import { chatConfig } from "./config";
+import { chatConfig } from "../config";
 // import "./style.css"
 
 
